@@ -1,0 +1,21 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    running diff command in terminal with the names of two files that you want to compare (diff File_1 File_2)
+
+How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+
+	with a version control tool
+
+How can you use the commands git log and git diff to view the history of files?
+
+	going in the path where project file are(using the terminal) and launch command git log for see all the commits, than choose wich one you want and compare the id version with the id version to the commit previous to see the differences 
+
+How might using version control make you more confident to make changes that could break something?
+
+	Because in case we'll generate some error we can go back to previous version and will be easy to found what generate the problem comparing the current version with the previous one
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	I want to try Git for take confidence with version-control system in a few projects example 
