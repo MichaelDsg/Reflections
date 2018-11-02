@@ -15,16 +15,16 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-	bgbgbgbgbgbg	
+	for example if you want to add some version with other language to your project
 
 How do the diagrams help you visualize the branch structure?
 
-
+	Because they show us clearly all the branch structure with all his commits
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-
+	
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
@@ -34,3 +34,13 @@ manually?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 	it allow you to choose which files to add in your commit
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	by running the command "git diff --staged". that's show all difference brtween repository and staging area
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	when you have to adding some "new version" for example or another version with some change but you still want to keep clean and indipendent the original version
+
+
