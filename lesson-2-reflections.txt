@@ -24,12 +24,12 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-	
+	we can add all the things there are present in the branch into master, we use a diagram for understand correctly how the process work
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
-
+	Git offer the possibility to do the procedure automaticly, that.s save us time plus reduce possibility to make a misstake
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
@@ -42,5 +42,4 @@ How can you use the staging area to make sure you have one commit per logical ch
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 	when you have to adding some "new version" for example or another version with some change but you still want to keep clean and indipendent the original version
-
 
